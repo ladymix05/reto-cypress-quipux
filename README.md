@@ -11,3 +11,10 @@ intente con distintos emails llegando al mismo resultado.
 
 El proyecto solo ejecuta un escenario de inicio de sesion pero
 hasta ahi debido a que es bloqueado luego de iniciar sesion
+
+![Captura de pantalla 2025-05-25 a la(s) 9 44 12 p m](https://github.com/user-attachments/assets/a4e408a4-2b3f-44c4-afd9-93a9cf0465a1)
+
+# Demo
+![image](https://github.com/user-attachments/assets/1657ba0e-8a2e-475e-9750-c8b7d5807403)
+
+
