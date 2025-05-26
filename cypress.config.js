@@ -4,10 +4,10 @@ const cucumber = require('cypress-cucumber-preprocessor').default;
 module.exports = defineConfig({
   e2e: {
     env: {
-      email: 'ls8988559@gmail.com',
-      password: 'PruebaQuipux1990',
-      recipient: 'santi950312@gmail.com',
-      filePath: ''
+      email: '<email de prueba>',
+      password: '<contraseña del email>',
+      recipient: '<correo destinatario>',
+      filePath: '<ruta de archivo a adjuntar>'
     },
     baseUrl: 'https://www.gmail.com',
     specPattern: '**/*.feature',
