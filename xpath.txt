@@ -1,0 +1,45 @@
+Login
+--------------------------
+
+Input de email
+//input[@type="email"]
+
+Boton Siguiente
+//span[text()="Siguiente"]//parent::button
+==========================
+
+Ingreso
+--------------------------
+Input clave
+//input[@type="password"]
+
+Boton Siguiente
+//span[text()="Siguiente"]//parent::button
+===========================
+
+Pagina principal
+---------------------------
+
+Crear email
+//div[text()="Compose"]
+
+Destinatarios div
+//div[text()="Recipients"]
+
+Input correos
+//input[@aria-label="To recipients"]
+
+Subject
+//input[@name="subjectbox"]
+
+Cuerpo del mensaje
+//div[@aria-label="Message Body"]
+
+Adjuntar archivo
+//input[@type="file"]
+
+Enviar correo btn
+//div[text()="Send"]
+
+
+
